@@ -7,7 +7,7 @@ This project uses **OpenCV** and **Python** to detect and track balls in video f
 ## 📽️ **Features**
 
 - **Real-Time Detection**: Process live video streams or pre-recorded footage.
-- **Noise Reduction**: Utilizes morphological operations for image filtering.
+- **Noise Reduction**: Uses morphological operations for image filtering.
 - **Multiple Detection Methods**: Combines Canny Edge Detection and Hough Circle Transform for robust ball detection.
 - **Brightness Adaptation**: Adjusts thresholds based on image brightness levels.
 
