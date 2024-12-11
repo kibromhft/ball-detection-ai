@@ -13,7 +13,7 @@ This project uses **OpenCV** and **Python** to detect and track balls in video f
 
 ---
 
-## 🚀 **Setup**
+## 🚀 **Quick Setup**
 
 1. **Clone the repository**:
    ```bash
