@@ -26,9 +26,13 @@ This project uses **OpenCV** and **Python** to detect and track balls in video f
    pip install opencv-python numpy imutils matplotlib
    ```
 
-3. **Run the Project**:
+3. **Run the Detection Script:**:
    ```bash
    python ball_detection.py --video path/to/your/video.mp4
+   ```
+   For live webcam input, run:
+     ```bash
+   python ball_detection.py --video 0
    ```
 
 ---
