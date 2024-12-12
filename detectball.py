@@ -15,7 +15,7 @@ ap.add_argument("-b", "--buffer", type=int, default=64,
 	help="max buffer size")
 args = vars(ap.parse_args())
 
-img = cv2.imread('D:/STIT - Computer Science/Grad Class - 2nd Sem/Digital Image Processing/data/recording4.h264')
+img = cv2.imread('D:/data/recording4.h264')
 vs = cv2.VideoCapture(args["video"])
 
 time.sleep(2.0)
